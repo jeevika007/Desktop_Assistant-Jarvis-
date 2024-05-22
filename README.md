@@ -1,7 +1,7 @@
 # Desktop_Assistant-Jarvis-
 Jarvis is a versatile and interactive desktop assistant developed using Python. This assistant aims to enhance user productivity by providing functionalities such as voice recognition, web scraping, message sending, media control, news and weather updates, alarm setting, and more.
 
-**### Features**
+### **Features**
 
 > Voice Recognition: Accepts user commands through voice input.
 > Text-to-Speech: Provides audio responses using text-to-speech conversion.
